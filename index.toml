@@ -116,11 +116,6 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
-file = "mods/icon.pw.toml"
-hash = "188f02df81a56e5819a6419135d0469e37583dfaad900c1c44b4762fc8a51567"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
 metafile = true
@@ -186,11 +181,6 @@ hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
 
 [[files]]
-file = "mods/options.pw.toml"
-hash = "3510d593083cc54147c732bac06c8bf2e3127253736ea186d00310e57f24b47b"
-metafile = true
-
-[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d81eac9cff3b173732245547079d6a7f33d3d12a3c00fc89297b24a32a030677"
 metafile = true
@@ -248,6 +238,21 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "235486ac327f81c801db0973eca9496fd545db9d9f5b3aee306491dcd180fb38"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stellar-tweaks-fa.pw.toml"
+hash = "f13935da2163cd9b43371cc49496a1810e83651f5f9d2a3d65d058a8b0fd7a24"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stellar-tweaks.pw.toml"
+hash = "92809e4195eee41118d11750a2b8f8cabfc803834540b5e9c9cb5c18c6b078b3"
 metafile = true
 
 [[files]]

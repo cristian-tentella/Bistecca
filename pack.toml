@@ -1,12 +1,12 @@
 name = "Bistecca"
 author = "BisteccaDiPollo"
-version = "1.2.0"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "adbdfe21ad4df8e8e7efbf54ff186a64d48c32438d54b83d2bc0c96e0381e238"
+hash = "36610bccdadaf198a99f0f00ef2408beefd66f3d988fc1ab35c2b5c850827d40"
 
 [versions]
 fabric = "0.14.21"
