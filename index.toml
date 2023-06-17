@@ -146,6 +146,11 @@ hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
 
 [[files]]
+file = "mods/logical-zoom.pw.toml"
+hash = "4c979c2d1cb53d5dddfe8b72b3aefe0c1d0d9286b0fb46cb222cf6985b34d014"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -168,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
-metafile = true
-
-[[files]]
-file = "mods/ok-boomer.pw.toml"
-hash = "794b499754a11f0e8d8d3b59ebeeff1e7197a47b489ad21e104b8347ea63a018"
 metafile = true
 
 [[files]]
@@ -243,16 +243,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "235486ac327f81c801db0973eca9496fd545db9d9f5b3aee306491dcd180fb38"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stellar-tweaks-fa.pw.toml"
-hash = "f13935da2163cd9b43371cc49496a1810e83651f5f9d2a3d65d058a8b0fd7a24"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stellar-tweaks.pw.toml"
-hash = "92809e4195eee41118d11750a2b8f8cabfc803834540b5e9c9cb5c18c6b078b3"
 metafile = true
 
 [[files]]
