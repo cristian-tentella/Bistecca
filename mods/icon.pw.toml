@@ -1,0 +1,9 @@
+name = "Icon"
+filename = "../icon.png"
+side = "both"
+
+[download]
+url = "https://bistecca-pack-files.s3.eu-west-3.amazonaws.com/icon.png"
+
+hash-format = "sha256"
+hash = "ee71ff7bb7ce55a88d5f5b558089a0819120eea557f7279e1923450eb2753659"

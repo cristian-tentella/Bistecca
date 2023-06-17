@@ -1,0 +1,9 @@
+name = "Options"
+filename = "../options.txt"
+side = "both"
+
+[download]
+url = "https://bistecca-pack-files.s3.eu-west-3.amazonaws.com/options.txt"
+
+hash-format = "sha256"
+hash = "ff369f411e4b6f334bda3d1c50445d3d1400cc6d5827d7eed8866b1c1d14a2dd"
