@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "b2305066ea90b00b2fea2105e96761fd7fffb3f8cda6c1993bf7a04df27fe237"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "05ac5655886661106bb34a8a898d47fd317577f7f44519693be882c7a73c64b8"
 metafile = true
@@ -8,11 +12,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
-metafile = true
-
-[[files]]
-file = "mods/areas.pw.toml"
-hash = "40aa49894a3409fd52383ec253b57e501934f12de982861fac2df85dfa56639a"
 metafile = true
 
 [[files]]
