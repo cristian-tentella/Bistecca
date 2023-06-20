@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
+hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
 
 [[files]]
@@ -145,13 +145,13 @@ hash = "8634fda31069fb5fb246126bef5a273c01845f74b4c0ad0ba394698df815e678"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
-hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+file = "mods/libipn.pw.toml"
+hash = "b7d04fcd38f84af79e1733f2f4912df51f40dbd5d196f5d6bbadce586b52136b"
 metafile = true
 
 [[files]]
-file = "mods/logical-zoom.pw.toml"
-hash = "4c979c2d1cb53d5dddfe8b72b3aefe0c1d0d9286b0fb46cb222cf6985b34d014"
+file = "mods/lithium.pw.toml"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
 metafile = true
 
 [[files]]
@@ -247,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]
