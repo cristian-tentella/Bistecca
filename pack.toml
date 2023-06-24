@@ -1,13 +1,16 @@
 name = "Bistecca"
 author = "BisteccaDiPollo"
-version = "1.8.0"
+version = "1.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "959b132f454499b5fdc4856aa0dfbfa6c23f2926be5b4416a506ac4d51ab58ec"
+hash = "bec5b47b7e00155c2406d53680cdb2c8e59a74f084c7fddafc4a4ecbf1d4b8e7"
 
 [versions]
 fabric = "0.14.21"
-minecraft = "1.20"
+minecraft = "1.20.1"
+
+[options]
+acceptable-game-versions = ["1.20", "1.20.1"]
