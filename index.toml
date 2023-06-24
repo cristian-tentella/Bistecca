@@ -15,11 +15,6 @@ hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
 
 [[files]]
-file = "mods/auto-third-person.pw.toml"
-hash = "3576e159bbad0cba0a40cdf37bcf83f5ccf373acd652d8592f3bb3473f79df6c"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -71,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "97767d7eb8dc6eaeec5a654c98e2062412c2b68ff480df768e4a78e068d5da72"
+hash = "4e3baa9e0fc7c2263e325aa6a60fc97fda722fbf0c82520b0430cec6fad68199"
 metafile = true
 
 [[files]]
@@ -241,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
+hash = "2cff9d338f25408ade4a747bd11a5d8a328bd007ae4505e70e971113351f0432"
 metafile = true
 
 [[files]]
